@@ -10,6 +10,6 @@ keycloak:
   server:
     contextPath: /auth
     adminUser:
-      username: bael-admin
+      username: springdoc-admin
       password: pass
-    realmImportFile: baeldung-realm.json
+    realmImportFile: springdoc-realm.json

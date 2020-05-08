@@ -14,8 +14,3 @@
 4. There are two users registered in the Authorization Server:
    1. john@test.com / 123
    2. mike@other.com / pass
-
-## Relevant Articles: 
-
-- [Spring REST API + OAuth2 + Angular](https://www.baeldung.com/rest-api-spring-oauth2-angular)
-- [OAuth2 for a Spring REST API – Handle the Refresh Token in Angular](https://www.baeldung.com/spring-security-oauth2-refresh-token-angular)
